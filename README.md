@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-miel-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Besos de miel ardiente, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-miel-ardiente/) |
+| **Get License** | [Request Licensing for Besos de miel ardiente, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-miel-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3952)
 
 ---
 
