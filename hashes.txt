@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de miel ardiente, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Besos de miel ardiente, Vol. 2** (besos-de-miel-ardiente-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T11:30:25.160442 | `v1` | `803f619ed6fe0ec139f5893320a1229a96660ea37a65c285e78d67b7ff91ea6b` | `588e0f88cf0d104a957b2a2c8c21633e1276f2b1d3316d32e6761eadff7e4b26` | `2026-06-21_besos-de-miel-ardiente-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

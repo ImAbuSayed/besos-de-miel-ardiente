@@ -1,4 +1,4 @@
-# Besos de miel ardiente
+# Besos de miel ardiente, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Besos de miel ardiente |
+| **Title** | Besos de miel ardiente, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-miel-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Besos de miel ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-miel-ardiente/) |
+| **Get License** | [Commercial Licensing for Besos de miel ardiente, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-miel-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus besos de miel ardiente me quitan la calma
+> Bailando en la oscuridad, tú me robas el alma
+> Acércate un poco más, que la noche nos llama
+> Siento el calor de tu piel encendiendo la llama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `803f619ed6fe0ec139f5893320a1229a96660ea37a65c285e78d67b7ff91ea6b` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

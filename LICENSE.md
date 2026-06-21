@@ -1,6 +1,6 @@
 # License
 
-**Besos de miel ardiente**
+**Besos de miel ardiente, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
